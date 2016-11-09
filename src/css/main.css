@@ -1,0 +1,70 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
+}
+h1 {
+  color: #3e6d63;
+}
+h2 {
+  color: #33907b;
+}
+h3 {
+  color: #45b29a;
+}
+h4 {
+  color: #8db39e;
+}
+p {
+  color: #777;
+}
+#header header {
+  margin-bottom: 0px;
+  border-bottom-width: 20px;
+  background-color: #E0EBE8;
+  border-color: #E0EBE8;
+}
+#header nav .row {
+  margin-top: 2%;
+}
+#main-image {
+  background-color: #E0EBE8;
+}
+#main-image img {
+  margin-bottom: 3%;
+}
+#hello article h3,p {
+  margin:0px auto;
+  text-align: center;
+  padding: 1em;
+  max-width: 250px;
+}
+#hello article figure {
+  margin:0px auto;
+  max-width: 150px;
+}
+#hello article figure img {
+  width: 100%;
+  margin-top: 30%;
+}
+#my-work figure {
+  margin:0px auto;
+  padding-bottom: 20%;
+  padding-top: 10%;
+  max-width: 200px;
+  max-height: 200px;
+}
+#my-work figure img {
+  width: 100%;
+  /*height: 100%;*/
+}
+#my-work .col-md-12 h2 {
+  padding-bottom: 1em;
+}
+.img-nav {
+  padding-left: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.myself-img {
+  border-radius: 50%;
+}
